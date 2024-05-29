@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SerializadorObjeto
+comment1.params=localidades\ nombreArchivo
+comment1.target=void\ serializarObjetos(java.util.List,\ java.lang.String)
+comment2.params=nombreArchivo
+comment2.target=java.util.List\ deserializarObjetos(java.lang.String)
+numComments=3

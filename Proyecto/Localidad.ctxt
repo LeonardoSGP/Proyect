@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Localidad
+comment1.params=CVGEO\ ENT_NOM\ MUN_NOM\ LOC_NOM\ Altitud\ Latitud\ Tipoloc\ Autocab\ Abastecim\ Drenaje\ Recbasura\ AUTMUN\ PROBLEMA
+comment1.target=Localidad(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCVGEO()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

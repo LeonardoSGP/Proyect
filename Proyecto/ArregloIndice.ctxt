@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArregloIndice
+comment1.params=tama\u00F1o
+comment1.target=ArregloIndice(int)
+comment2.params=entrada\ \u00EDndice
+comment2.target=void\ agregarEntrada(Indice,\ int)
+comment3.params=CVGEO
+comment3.target=Indice\ buscar(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

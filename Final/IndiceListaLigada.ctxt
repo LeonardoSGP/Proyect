@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IndiceListaLigada
+comment1.params=
+comment1.target=IndiceListaLigada()
+comment2.params=CVGEO\ posicion
+comment2.target=void\ agregar(java.lang.String,\ long)
+comment3.params=CVGEO
+comment3.target=long\ buscar(java.lang.String)
+numComments=4

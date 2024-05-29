@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Localidad
+comment1.params=CVGEO\ ENT_NOM\ MUN_NOM\ LOC_NOM\ Altitud\ Latitud\ Tipoloc\ Autocab\ Abastecim\ Drenaje\ Recbasura\ AUTMUN
+comment1.target=Localidad(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ java.lang.String,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

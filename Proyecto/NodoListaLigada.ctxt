@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NodoListaLigada
+comment1.params=entrada
+comment1.target=NodoListaLigada(Indice)
+comment2.params=
+comment2.target=Indice\ getEntrada()
+comment3.params=
+comment3.target=NodoListaLigada\ getSiguiente()
+comment4.params=siguiente
+comment4.target=void\ setSiguiente(NodoListaLigada)
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IndiceArreglo
+comment1.params=size
+comment1.target=IndiceArreglo(int)
+comment2.params=i\ CVGEO\ posicion
+comment2.target=void\ agregar(int,\ java.lang.String,\ long)
+comment3.params=CVGEO
+comment3.target=int\ buscar(java.lang.String)
+comment4.params=index
+comment4.target=long\ obtenerPosicion(int)
+numComments=5

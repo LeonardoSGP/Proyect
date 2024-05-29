@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CSVReader
+comment1.params=archivoCSV
+comment1.target=java.util.ArrayList\ leerCSV(java.lang.String)
+comment2.params=localidades\ archivoObjetos
+comment2.target=void\ escribirObjetos(java.util.ArrayList,\ java.lang.String)
+numComments=3
